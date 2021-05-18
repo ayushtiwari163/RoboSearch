@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ayushtiwari163/RobooSearch/static/css/main.8f57a916.chunk.css",
+    "main.js": "/ayushtiwari163/RobooSearch/static/js/main.7c266f25.chunk.js",
+    "main.js.map": "/ayushtiwari163/RobooSearch/static/js/main.7c266f25.chunk.js.map",
+    "runtime-main.js": "/ayushtiwari163/RobooSearch/static/js/runtime-main.ba2451cf.js",
+    "runtime-main.js.map": "/ayushtiwari163/RobooSearch/static/js/runtime-main.ba2451cf.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/ayushtiwari163/RobooSearch/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.7bc5eac0.chunk.js": "/ayushtiwari163/RobooSearch/static/js/2.7bc5eac0.chunk.js",
+    "static/js/2.7bc5eac0.chunk.js.map": "/ayushtiwari163/RobooSearch/static/js/2.7bc5eac0.chunk.js.map",
+    "static/js/3.5b6707d8.chunk.js": "/ayushtiwari163/RobooSearch/static/js/3.5b6707d8.chunk.js",
+    "static/js/3.5b6707d8.chunk.js.map": "/ayushtiwari163/RobooSearch/static/js/3.5b6707d8.chunk.js.map",
+    "index.html": "/ayushtiwari163/RobooSearch/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/ayushtiwari163/RobooSearch/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.8f57a916.chunk.css.map": "/ayushtiwari163/RobooSearch/static/css/main.8f57a916.chunk.css.map",
+    "static/js/2.7bc5eac0.chunk.js.LICENSE.txt": "/ayushtiwari163/RobooSearch/static/js/2.7bc5eac0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ayushtiwari163/RobooSearch/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba2451cf.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.7bc5eac0.chunk.js",
+    "static/css/main.8f57a916.chunk.css",
+    "static/js/main.7c266f25.chunk.js"
+  ]
+}
